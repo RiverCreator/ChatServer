@@ -1,0 +1,2 @@
+add_subdirectory(offline_server)
+add_subdirectory(offline_service)

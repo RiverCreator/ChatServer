@@ -1,0 +1,1224 @@
+2024-04-27 20:10:25
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-27 20:10:25
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:10:25
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:10:25
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:10:39
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-27 20:10:39
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:10:39
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:10:39
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:11:08
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-27 20:11:08
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:11:08
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:11:08
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 20:11:08
+[INFO]create IO thread(559534). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 20:11:08
+[INFO]create IO thread(559535). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 20:11:08
+[INFO]create IO thread(559536). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 20:11:08
+[INFO]create IO thread(559537). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:04
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 13:05:04
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:05:04
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:05:04
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:05:04
+[INFO]create IO thread(32468). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:04
+[INFO]create IO thread(32470). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:04
+[INFO]create IO thread(32469). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:04
+[INFO]create IO thread(32471). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:08
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:14:19
+[WARNING]timeout! -- /home/river/work/httpserver/src/TcpServer/EventLoop.cpp:147
+2024-04-29 13:14:19
+[INFO]TcpServer:2 -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:160
+2024-04-29 13:14:19
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 13:16:04
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:16:19
+[WARNING]timeout! -- /home/river/work/httpserver/src/TcpServer/EventLoop.cpp:147
+2024-04-29 13:16:19
+[INFO]TcpServer:2 -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:160
+2024-04-29 13:16:19
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 15:57:21
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 15:57:21
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:21
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:21
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:21
+[INFO]create IO thread(37842). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:21
+[INFO]create IO thread(37844). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:21
+[INFO]create IO thread(37843). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:21
+[INFO]create IO thread(37845). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:41
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 15:57:41
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:41
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:41
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:41
+[INFO]create IO thread(37990). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:41
+[INFO]create IO thread(37989). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:41
+[INFO]create IO thread(37991). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:41
+[INFO]create IO thread(37992). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:51
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:09:51
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:51
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:51
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:51
+[INFO]create IO thread(45920). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:51
+[INFO]create IO thread(45922). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:51
+[INFO]create IO thread(45921). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:51
+[INFO]create IO thread(45923). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:10:02
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:10:02
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:10:02
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:10:02
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:10:02
+[INFO]create IO thread(46067). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:10:02
+[INFO]create IO thread(46066). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:10:02
+[INFO]create IO thread(46068). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:10:02
+[INFO]create IO thread(46069). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:56
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 18:03:56
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:03:56
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:03:56
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:03:56
+[INFO]create IO thread(50417). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:56
+[INFO]create IO thread(50416). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:56
+[INFO]create IO thread(50419). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:56
+[INFO]create IO thread(50418). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:32
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:02:32
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:32
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:32
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:32
+[INFO]create IO thread(55266). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:32
+[INFO]create IO thread(55267). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:32
+[INFO]create IO thread(55268). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:32
+[INFO]create IO thread(55265). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:21
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:03:21
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:21:37
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:21:37
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:21:37
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:21:37
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:21:37
+[INFO]create IO thread(58929). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:37
+[INFO]create IO thread(58930). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:37
+[INFO]create IO thread(58928). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:37
+[INFO]create IO thread(58927). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:23:45
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:23:45
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:29:45
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 21:53:40
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 21:53:40
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 21:53:40
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 21:53:40
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 21:53:40
+[INFO]create IO thread(68708). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 21:53:40
+[INFO]create IO thread(68709). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 21:53:40
+[INFO]create IO thread(68707). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 21:53:40
+[INFO]create IO thread(68706). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 23:50:36
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 23:50:36
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 23:50:36
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 23:50:36
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 23:50:36
+[INFO]create IO thread(71973). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 23:50:36
+[INFO]create IO thread(71972). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 23:50:36
+[INFO]create IO thread(71974). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 23:50:36
+[INFO]create IO thread(71975). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 23:52:45
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 23:52:45
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:252
+2024-04-29 23:54:20
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 23:54:20
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:252
+2024-04-29 23:54:22
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 23:54:22
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:252
+2024-04-30 00:32:05
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-30 00:32:05
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-30 00:32:05
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-30 09:42:48
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 09:42:48
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 09:42:48
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 09:42:48
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 09:42:48
+[INFO]create IO thread(79689). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 09:42:48
+[INFO]create IO thread(79688). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 09:42:48
+[INFO]create IO thread(79690). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 09:42:48
+[INFO]create IO thread(79691). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 09:51:14
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-30 09:51:14
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:252
+2024-04-30 09:51:31
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-30 09:53:58
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-30 09:53:58
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:252
+2024-04-30 10:14:16
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 10:14:16
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:14:16
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:14:16
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:14:16
+[INFO]create IO thread(82529). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:14:16
+[INFO]create IO thread(82528). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:14:16
+[INFO]create IO thread(82531). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:14:16
+[INFO]create IO thread(82530). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:23:18
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 10:23:18
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:23:18
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:23:18
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:23:18
+[INFO]create IO thread(83631). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:23:18
+[INFO]create IO thread(83634). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:23:18
+[INFO]create IO thread(83632). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:23:18
+[INFO]create IO thread(83633). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:25:16
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-30 10:25:16
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:159
+2024-04-30 10:25:16
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:163
+2024-04-30 10:25:16
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:252
+2024-04-30 10:37:30
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 10:37:30
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:37:30
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:37:30
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:37:30
+[INFO]create IO thread(84983). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:37:30
+[INFO]create IO thread(84982). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:37:30
+[INFO]create IO thread(84981). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:37:30
+[INFO]create IO thread(84984). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:40:45
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 10:40:45
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:40:45
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:40:45
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:40:45
+[INFO]create IO thread(86598). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:40:45
+[INFO]create IO thread(86597). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:40:45
+[INFO]create IO thread(86596). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:40:45
+[INFO]create IO thread(86599). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:58:20
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 10:58:20
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:58:20
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:58:20
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 10:58:20
+[INFO]create IO thread(88720). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:58:20
+[INFO]create IO thread(88719). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:58:20
+[INFO]create IO thread(88722). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 10:58:20
+[INFO]create IO thread(88721). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:08:45
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 11:08:45
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 11:08:45
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 11:08:45
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 11:08:45
+[INFO]create IO thread(89934). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:08:45
+[INFO]create IO thread(89933). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:08:45
+[INFO]create IO thread(89935). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:08:45
+[INFO]create IO thread(89936). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:57:20
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 11:57:20
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 11:57:20
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 11:57:20
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 11:57:20
+[INFO]create IO thread(91627). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:57:20
+[INFO]create IO thread(91626). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:57:21
+[INFO]create IO thread(91628). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 11:57:21
+[INFO]create IO thread(91629). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 12:57:40
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 12:57:40
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 12:57:40
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 12:57:40
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 12:57:40
+[INFO]create IO thread(93195). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 12:57:40
+[INFO]create IO thread(93194). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 12:57:40
+[INFO]create IO thread(93196). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 12:57:40
+[INFO]create IO thread(93197). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:01:12
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 13:01:12
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:01:12
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:01:12
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:01:12
+[INFO]create IO thread(94296). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:01:12
+[INFO]create IO thread(94299). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:01:12
+[INFO]create IO thread(94297). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:01:12
+[INFO]create IO thread(94298). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:22:47
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 13:22:47
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:22:47
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:22:47
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:22:47
+[INFO]create IO thread(97151). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:22:47
+[INFO]create IO thread(97150). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:22:47
+[INFO]create IO thread(97153). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:22:47
+[INFO]create IO thread(97152). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:32:19
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 13:32:19
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:32:19
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:32:19
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:32:19
+[INFO]create IO thread(98338). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:32:19
+[INFO]create IO thread(98337). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:32:19
+[INFO]create IO thread(98339). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:32:19
+[INFO]create IO thread(98340). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:48:30
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 13:48:30
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:48:30
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:48:30
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 13:48:30
+[INFO]create IO thread(99561). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:48:30
+[INFO]create IO thread(99560). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:48:30
+[INFO]create IO thread(99562). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 13:48:30
+[INFO]create IO thread(99563). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:21:44
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 16:21:44
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 16:21:44
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 16:21:44
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 16:21:44
+[INFO]create IO thread(101690). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:21:44
+[INFO]create IO thread(101689). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:21:44
+[INFO]create IO thread(101691). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:21:44
+[INFO]create IO thread(101692). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:32:10
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 16:32:10
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 16:32:10
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 16:32:10
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 16:32:10
+[INFO]create IO thread(103047). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:32:10
+[INFO]create IO thread(103044). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:32:10
+[INFO]create IO thread(103045). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 16:32:10
+[INFO]create IO thread(103046). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:02:27
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:02:27
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:02:27
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:02:27
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:02:27
+[INFO]create IO thread(104626). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:02:27
+[INFO]create IO thread(104625). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:02:27
+[INFO]create IO thread(104627). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:02:27
+[INFO]create IO thread(104628). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:06:41
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:06:41
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:06:41
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:06:41
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:06:41
+[INFO]create IO thread(105344). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:06:41
+[INFO]create IO thread(105343). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:06:41
+[INFO]create IO thread(105345). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:06:41
+[INFO]create IO thread(105346). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:11:42
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:11:42
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:11:42
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:11:42
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:11:42
+[INFO]create IO thread(106005). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:11:42
+[INFO]create IO thread(106004). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:11:42
+[INFO]create IO thread(106007). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:11:42
+[INFO]create IO thread(106006). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:13:06
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:13:06
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:13:06
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:13:06
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:13:06
+[INFO]create IO thread(106687). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:13:06
+[INFO]create IO thread(106686). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:13:07
+[INFO]create IO thread(106688). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:13:07
+[INFO]create IO thread(106689). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:13:27
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:92
+2024-04-30 17:13:27
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-30 17:13:27
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:159
+2024-04-30 17:13:27
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:163
+2024-04-30 17:13:27
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:257
+2024-04-30 17:16:48
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:16:48
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:16:48
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:16:48
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:16:48
+[INFO]create IO thread(107481). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:16:48
+[INFO]create IO thread(107480). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:16:48
+[INFO]create IO thread(107482). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:16:48
+[INFO]create IO thread(107483). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:17:04
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:17:04
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:17:04
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:17:04
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:17:04
+[INFO]create IO thread(107670). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:17:04
+[INFO]create IO thread(107669). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:17:04
+[INFO]create IO thread(107671). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:17:04
+[INFO]create IO thread(107672). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:20:43
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:20:43
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:20:43
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:20:43
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:20:43
+[INFO]create IO thread(108662). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:20:43
+[INFO]create IO thread(108661). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:20:43
+[INFO]create IO thread(108663). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:20:43
+[INFO]create IO thread(108664). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:29:57
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 17:29:57
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:29:57
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:29:57
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 17:29:57
+[INFO]create IO thread(109586). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:29:57
+[INFO]create IO thread(109585). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:29:57
+[INFO]create IO thread(109587). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 17:29:57
+[INFO]create IO thread(109588). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:33:43
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 23:33:43
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:33:43
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:33:43
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:33:43
+[INFO]create IO thread(112522). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:33:43
+[INFO]create IO thread(112521). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:33:43
+[INFO]create IO thread(112523). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:33:43
+[INFO]create IO thread(112524). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:38:17
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 23:38:17
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:38:17
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:38:17
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:38:17
+[INFO]create IO thread(113295). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:38:17
+[INFO]create IO thread(113294). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:38:17
+[INFO]create IO thread(113293). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:38:17
+[INFO]create IO thread(113296). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:41:12
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 23:41:12
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:41:12
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:41:12
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:41:12
+[INFO]create IO thread(114352). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:41:12
+[INFO]create IO thread(114353). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:41:12
+[INFO]create IO thread(114351). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:41:12
+[INFO]create IO thread(114350). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:28
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 23:55:28
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:55:28
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:55:28
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:55:28
+[INFO]create IO thread(115243). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:28
+[INFO]create IO thread(115242). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:28
+[INFO]create IO thread(115244). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:28
+[INFO]create IO thread(115245). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:34
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-30 23:55:34
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:55:34
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:55:34
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-30 23:55:34
+[INFO]create IO thread(115339). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:34
+[INFO]create IO thread(115338). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:34
+[INFO]create IO thread(115340). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-30 23:55:34
+[INFO]create IO thread(115341). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:23
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 00:09:23
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:09:23
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:09:23
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:09:23
+[INFO]create IO thread(116424). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:23
+[INFO]create IO thread(116423). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:23
+[INFO]create IO thread(116425). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:23
+[INFO]create IO thread(116426). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:28
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 00:09:28
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:09:28
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:09:28
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:09:28
+[INFO]create IO thread(116519). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:28
+[INFO]create IO thread(116518). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:28
+[INFO]create IO thread(116520). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:09:28
+[INFO]create IO thread(116521). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:28:02
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 00:28:02
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:28:02
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:28:02
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 00:28:02
+[INFO]create IO thread(118341). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:28:02
+[INFO]create IO thread(118340). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:28:02
+[INFO]create IO thread(118342). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 00:28:02
+[INFO]create IO thread(118343). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:00:45
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:00:45
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:00:45
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:00:45
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:00:45
+[INFO]create IO thread(122978). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:00:45
+[INFO]create IO thread(122977). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:00:45
+[INFO]create IO thread(122979). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:00:45
+[INFO]create IO thread(122980). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:05:27
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:05:27
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:05:27
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:05:27
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:05:27
+[INFO]create IO thread(123895). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:05:27
+[INFO]create IO thread(123894). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:05:27
+[INFO]create IO thread(123896). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:05:27
+[INFO]create IO thread(123897). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:08:56
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:08:56
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:08:56
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:08:56
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:08:56
+[INFO]create IO thread(124441). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:08:56
+[INFO]create IO thread(124440). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:08:56
+[INFO]create IO thread(124442). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:08:56
+[INFO]create IO thread(124443). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:09:23
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:09:23
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:09:23
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:09:23
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:09:23
+[INFO]create IO thread(124726). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:09:23
+[INFO]create IO thread(124725). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:09:23
+[INFO]create IO thread(124727). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:09:23
+[INFO]create IO thread(124728). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:06
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:10:06
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:10:06
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:10:06
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:10:06
+[INFO]create IO thread(125311). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:06
+[INFO]create IO thread(125312). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:06
+[INFO]create IO thread(125313). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:06
+[INFO]create IO thread(125310). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:38
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:10:38
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:10:38
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:10:38
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:10:38
+[INFO]create IO thread(125667). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:38
+[INFO]create IO thread(125666). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:38
+[INFO]create IO thread(125668). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:10:38
+[INFO]create IO thread(125669). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:30:58
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:30:58
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:30:58
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:30:58
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:30:58
+[INFO]create IO thread(127200). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:30:58
+[INFO]create IO thread(127197). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:30:58
+[INFO]create IO thread(127198). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:30:58
+[INFO]create IO thread(127199). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:41:16
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 11:41:16
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:41:16
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:41:16
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 11:41:16
+[INFO]create IO thread(128501). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:41:16
+[INFO]create IO thread(128500). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:41:16
+[INFO]create IO thread(128502). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 11:41:16
+[INFO]create IO thread(128503). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 12:55:51
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 12:55:51
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 12:55:51
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 12:55:51
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 12:55:51
+[INFO]create IO thread(130514). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 12:55:51
+[INFO]create IO thread(130513). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 12:55:51
+[INFO]create IO thread(130515). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 12:55:51
+[INFO]create IO thread(130516). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:03
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 13:13:03
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:03
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:03
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:03
+[INFO]create IO thread(131404). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:03
+[INFO]create IO thread(131403). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:03
+[INFO]create IO thread(131406). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:03
+[INFO]create IO thread(131405). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:23
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 13:13:23
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:23
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:23
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:23
+[INFO]create IO thread(131680). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:23
+[INFO]create IO thread(131681). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:23
+[INFO]create IO thread(131679). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:23
+[INFO]create IO thread(131682). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:28
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 13:13:28
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:28
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:28
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 13:13:28
+[INFO]create IO thread(131727). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:28
+[INFO]create IO thread(131726). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:28
+[INFO]create IO thread(131728). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 13:13:28
+[INFO]create IO thread(131729). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 15:33:12
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 15:33:12
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 15:33:12
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 15:33:12
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 15:33:12
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 15:33:12
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 15:33:12
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 15:33:12
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 15:33:12
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 15:51:47
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 15:51:47
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 15:51:47
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 15:51:47
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 15:51:47
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 15:51:47
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 15:51:47
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 15:51:47
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 15:51:47
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 17:39:14
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 17:39:14
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 17:39:14
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:39:14
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 17:39:14
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 17:39:14
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:39:14
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 17:39:14
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 17:39:14
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 17:39:20
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 17:39:20
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:39:20
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 17:39:20
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 17:39:20
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 17:39:20
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:39:20
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 17:39:20
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 17:39:20
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 17:40:14
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 17:40:14
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 17:40:14
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:40:14
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 17:40:14
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 17:40:14
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:40:14
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 17:40:14
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 17:40:14
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 17:40:25
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 17:40:25
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:40:25
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 17:40:25
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 17:40:25
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 17:40:25
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 17:40:25
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 17:40:25
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 17:40:25
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 17:51:55
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 17:51:55
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 17:51:55
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 17:51:55
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 17:51:55
+[INFO]create IO thread(141201). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 17:51:55
+[INFO]create IO thread(141200). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 17:51:55
+[INFO]create IO thread(141202). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 17:51:55
+[INFO]create IO thread(141203). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 18:01:04
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 18:01:04
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 18:01:04
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 18:01:04
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 18:01:04
+[INFO]create IO thread(143428). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 18:01:04
+[INFO]create IO thread(143427). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 18:01:04
+[INFO]create IO thread(143430). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 18:01:04
+[INFO]create IO thread(143429). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 18:02:02
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 18:02:02
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 18:02:02
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 18:02:02
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 18:02:02
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 18:02:02
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 18:02:02
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 18:02:02
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 18:02:02
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 19:00:18
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-01 19:00:18
+[INFO]inputbuffer_ size :71 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-01 19:00:18
+[WARNING]71 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 19:00:18
+[INFO]rpc done callback! -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:160
+2024-05-01 19:00:18
+[INFO]rpc response size:0 -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:164
+2024-05-01 19:00:18
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-01 19:00:18
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:282
+2024-05-01 19:00:18
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-01 19:00:18
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-01 19:42:06
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 19:42:06
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 19:42:06
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 19:42:06
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 19:42:06
+[INFO]create IO thread(149590). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 19:42:06
+[INFO]create IO thread(149589). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 19:42:06
+[INFO]create IO thread(149591). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 19:42:06
+[INFO]create IO thread(149592). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:26:41
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 20:26:41
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 20:26:41
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 20:26:41
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 20:26:41
+[INFO]create IO thread(154435). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:26:41
+[INFO]create IO thread(154434). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:26:41
+[INFO]create IO thread(154437). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:26:41
+[INFO]create IO thread(154436). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:27:28
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-01 20:27:28
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 20:27:28
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 20:27:28
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-01 20:27:28
+[INFO]create IO thread(154873). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:27:28
+[INFO]create IO thread(154872). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:27:28
+[INFO]create IO thread(154874). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-01 20:27:28
+[INFO]create IO thread(154875). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 10:01:59
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-02 10:01:59
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 10:01:59
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 10:01:59
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 10:01:59
+[INFO]create IO thread(170607). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 10:01:59
+[INFO]create IO thread(170606). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 10:01:59
+[INFO]create IO thread(170609). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 10:01:59
+[INFO]create IO thread(170608). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:11
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-02 11:24:11
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:24:11
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:24:11
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:24:11
+[INFO]create IO thread(178070). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:11
+[INFO]create IO thread(178067). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:11
+[INFO]create IO thread(178068). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:11
+[INFO]create IO thread(178069). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:37:58
+[INFO]service_name:LogServerRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-02 20:37:58
+[INFO]method_name:Log_INFO -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 20:37:58
+[INFO]method_name:Log_ERROR -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 20:37:58
+[INFO]method_name:Log_FATAL -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 20:37:58
+[INFO]create IO thread(194836). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:37:58
+[INFO]create IO thread(194838). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:37:58
+[INFO]create IO thread(194837). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:37:58
+[INFO]create IO thread(194839). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11

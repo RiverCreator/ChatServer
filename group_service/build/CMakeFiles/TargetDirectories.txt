@@ -1,0 +1,10 @@
+/home/river/work/mychat/group_service/build/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/group_service/build/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/group_service/build/src/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/group_service/build/src/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/group_service/build/src/GroupServer/CMakeFiles/GroupServer.dir
+/home/river/work/mychat/group_service/build/src/GroupServer/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/group_service/build/src/GroupServer/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/group_service/build/src/GroupService/CMakeFiles/GroupService.dir
+/home/river/work/mychat/group_service/build/src/GroupService/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/group_service/build/src/GroupService/CMakeFiles/rebuild_cache.dir

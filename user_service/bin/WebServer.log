@@ -1,0 +1,2051 @@
+2024-04-27 21:22:14
+[INFO]create IO thread(568265). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:22:14
+[INFO]create IO thread(568267). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:22:14
+[INFO]create IO thread(568266). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:22:14
+[INFO]create IO thread(568264). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:39:42
+[INFO]create IO thread(570644). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:39:42
+[INFO]create IO thread(570646). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:39:42
+[INFO]create IO thread(570645). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:39:42
+[INFO]create IO thread(570647). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:41:20
+[INFO]create IO thread(571086). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:41:20
+[INFO]create IO thread(571088). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:41:20
+[INFO]create IO thread(571087). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:41:20
+[INFO]create IO thread(571089). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:42:00
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-27 21:42:00
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 21:42:00
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 21:42:00
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 21:42:00
+[INFO]create IO thread(571207). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:42:00
+[INFO]create IO thread(571206). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:42:00
+[INFO]create IO thread(571204). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:42:00
+[INFO]create IO thread(571205). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:44:21
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-27 21:44:21
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 21:44:21
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 21:44:21
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-27 21:44:21
+[INFO]create IO thread(571429). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:44:21
+[INFO]create IO thread(571428). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:44:21
+[INFO]create IO thread(571427). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 21:44:21
+[INFO]create IO thread(571426). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:10
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 13:02:10
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:02:10
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:02:10
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:02:10
+[INFO]create IO thread(31858). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:10
+[INFO]create IO thread(31856). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:10
+[INFO]create IO thread(31855). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:10
+[INFO]create IO thread(31857). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:25
+[INFO]create IO thread(31902). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:25
+[INFO]create IO thread(31905). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:25
+[INFO]create redis_worker thread(31906). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:25
+[INFO]create redis_worker thread(31908). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:25
+[INFO]create redis_worker thread(31907). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:25
+[INFO]create IO thread(31904). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:02:25
+[INFO]create IO thread(31903). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:03:01
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:03:15
+[WARNING]timeout! -- /home/river/work/httpserver/src/TcpServer/EventLoop.cpp:147
+2024-04-29 13:03:15
+[INFO]TcpServer:2 -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:160
+2024-04-29 13:03:15
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 13:05:08
+[INFO]create IO thread(32491). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:08
+[INFO]create IO thread(32494). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:08
+[INFO]create redis_worker thread(32495). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:08
+[INFO]create IO thread(32493). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:08
+[INFO]create IO thread(32492). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:08
+[INFO]create redis_worker thread(32497). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:05:08
+[INFO]create redis_worker thread(32496). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:01
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 13:14:01
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:14:01
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:14:01
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:14:01
+[INFO]create IO thread(32977). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:01
+[INFO]create IO thread(32978). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:01
+[INFO]create IO thread(32979). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:01
+[INFO]create IO thread(32980). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:04
+[INFO]create IO thread(32997). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:04
+[INFO]create IO thread(32999). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:04
+[INFO]create IO thread(33000). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:04
+[INFO]create redis_worker thread(33002). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:04
+[INFO]create redis_worker thread(33001). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:04
+[INFO]create IO thread(32998). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:04
+[INFO]create redis_worker thread(33003). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:14:08
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:14:08
+[INFO]2024-04-29 13:14:08 new connection(fd=45,ip=192.168.203.128,port=52582) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 13:14:08
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:14:08
+updata error: insert into User(name,password) values('riverj','273068') -- /home/river/work/SQL_Pool/SQL_connect_pool/src/connect.cpp:29
+2024-04-29 13:15:31
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 13:15:31
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:15:31
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:15:31
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:15:31
+[INFO]create IO thread(33446). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:31
+[INFO]create IO thread(33445). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:31
+[INFO]create IO thread(33444). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:31
+[INFO]create IO thread(33443). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:33
+[INFO]create redis_worker thread(33462). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:33
+[INFO]create IO thread(33459). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:33
+[INFO]create redis_worker thread(33464). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:33
+[INFO]create redis_worker thread(33463). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:33
+[INFO]create IO thread(33458). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:33
+[INFO]create IO thread(33461). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:15:33
+[INFO]create IO thread(33460). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:16:04
+[INFO]2024-04-29 13:16:04 new connection(fd=45,ip=192.168.203.128,port=39112) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 13:16:04
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:16:04
+updata error: insert into User(name,password) values('riverj','273068') -- /home/river/work/SQL_Pool/SQL_connect_pool/src/connect.cpp:29
+2024-04-29 13:16:04
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:23:03
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 13:23:03
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:23:03
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:23:03
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:23:03
+[INFO]create IO thread(33823). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:03
+[INFO]create IO thread(33824). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:03
+[INFO]create IO thread(33825). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:03
+[INFO]create IO thread(33826). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:05
+[INFO]create IO thread(33846). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:05
+[INFO]create IO thread(33849). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:05
+[INFO]create redis_worker thread(33850). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:05
+[INFO]create IO thread(33847). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:05
+[INFO]create redis_worker thread(33852). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:05
+[INFO]create redis_worker thread(33851). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:05
+[INFO]create IO thread(33848). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:23:16
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:23:16
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 13:23:16
+[INFO]2024-04-29 13:23:16 new connection(fd=45,ip=192.168.203.128,port=55582) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 13:23:16
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:23:16
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 13:29:53
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 13:29:53
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:29:53
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:29:53
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:29:53
+[INFO]create IO thread(34417). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:53
+[INFO]create IO thread(34418). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:53
+[INFO]create IO thread(34419). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:53
+[INFO]create IO thread(34420). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:55
+[INFO]create IO thread(34439). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:55
+[INFO]create IO thread(34442). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:55
+[INFO]create redis_worker thread(34443). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:55
+[INFO]create redis_worker thread(34445). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:55
+[INFO]create redis_worker thread(34444). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:55
+[INFO]create IO thread(34441). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:29:55
+[INFO]create IO thread(34440). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:31:24
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:34:12
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 13:45:12
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 13:45:12
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:45:12
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:45:12
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 13:45:12
+[INFO]create IO thread(35055). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:12
+[INFO]create IO thread(35054). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:12
+[INFO]create IO thread(35052). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:12
+[INFO]create IO thread(35053). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:14
+[INFO]create IO thread(35074). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:14
+[INFO]create IO thread(35075). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:14
+[INFO]create redis_worker thread(35080). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:14
+[INFO]create IO thread(35076). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:14
+[INFO]create redis_worker thread(35079). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:14
+[INFO]create IO thread(35077). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 13:45:14
+[INFO]create redis_worker thread(35078). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 14:03:26
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 14:03:26
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 14:03:26
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 14:03:26
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 14:03:26
+[INFO]create IO thread(36593). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 14:03:26
+[INFO]create IO thread(36594). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 14:03:26
+[INFO]create IO thread(36592). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 14:03:26
+[INFO]create IO thread(36591). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 14:03:32
+[INFO]2024-04-29 14:03:32 new connection(fd=45,ip=192.168.203.128,port=46822) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 14:03:32
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 14:03:32
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 14:03:32
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 14:03:32
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 15:57:17
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 15:57:17
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:17
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:17
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:17
+[INFO]create IO thread(37795). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:17
+[INFO]create IO thread(37794). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:17
+[INFO]create IO thread(37793). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:17
+[INFO]create IO thread(37792). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:19
+[INFO]create redis_worker thread(37817). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:19
+[INFO]create redis_worker thread(37818). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:19
+[INFO]create IO thread(37815). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:19
+[INFO]create IO thread(37814). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:19
+[INFO]create redis_worker thread(37816). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:19
+[INFO]create IO thread(37812). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:19
+[INFO]create IO thread(37813). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:35
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 15:57:35
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:35
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:35
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 15:57:35
+[INFO]create IO thread(37918). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:35
+[INFO]create IO thread(37917). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:35
+[INFO]create IO thread(37916). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:35
+[INFO]create IO thread(37915). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:38
+[INFO]create IO thread(37945). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:38
+[INFO]create IO thread(37948). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:38
+[INFO]create redis_worker thread(37949). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:38
+[INFO]create IO thread(37946). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:38
+[INFO]create redis_worker thread(37951). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:38
+[INFO]create IO thread(37947). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:38
+[INFO]create redis_worker thread(37950). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 15:57:46
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 15:57:46
+[INFO]2024-04-29 15:57:46 new connection(fd=45,ip=192.168.203.128,port=39290) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 15:57:46
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 15:57:46
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 15:57:46
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 15:57:46
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:05:36
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 16:05:36
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:05:36
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:05:36
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:05:36
+[INFO]create IO thread(39147). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:36
+[INFO]create IO thread(39144). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:36
+[INFO]create IO thread(39146). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:36
+[INFO]create IO thread(39145). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:39
+[INFO]create redis_worker thread(39179). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:39
+[INFO]create redis_worker thread(39181). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:39
+[INFO]create redis_worker thread(39180). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:39
+[INFO]create IO thread(39177). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:39
+[INFO]create IO thread(39178). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:39
+[INFO]create IO thread(39176). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:39
+[INFO]create IO thread(39175). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:42
+[INFO]create IO thread(39220). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:42
+[INFO]create IO thread(39219). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:42
+[INFO]create IO thread(39218). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:42
+[INFO]create IO thread(39221). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:42
+[INFO]create redis_worker thread(39222). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:42
+[INFO]create redis_worker thread(39223). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:05:42
+[INFO]create redis_worker thread(39224). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:23
+[INFO]create IO thread(39363). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:23
+[INFO]create IO thread(39364). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:23
+[INFO]create redis_worker thread(39366). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:23
+[INFO]create redis_worker thread(39367). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:23
+[INFO]create IO thread(39362). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:23
+[INFO]create IO thread(39361). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:23
+[INFO]create redis_worker thread(39365). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:06:42
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:06:42
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:06:42
+[INFO]2024-04-29 16:06:42 new connection(fd=45,ip=192.168.203.128,port=45990) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:06:42
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:06:42
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:06:42
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:18:12
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:18:12
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:18:12
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 16:18:12
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:18:12
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:18:12
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:18:12
+[INFO]create IO thread(40435). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:12
+[INFO]create IO thread(40438). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:12
+[INFO]create IO thread(40437). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:12
+[INFO]create IO thread(40436). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:20
+[INFO]create IO thread(40480). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:20
+[INFO]create IO thread(40482). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:20
+[INFO]create IO thread(40481). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:20
+[INFO]create redis_worker thread(40485). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:20
+[INFO]create IO thread(40483). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:20
+[INFO]create redis_worker thread(40484). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:20
+[INFO]create redis_worker thread(40486). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:40
+[INFO]create IO thread(40561). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:40
+[INFO]create IO thread(40564). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:40
+[INFO]create redis_worker thread(40565). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:40
+[INFO]create IO thread(40562). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:40
+[INFO]create IO thread(40563). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:40
+[INFO]create redis_worker thread(40566). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:40
+[INFO]create redis_worker thread(40567). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:45
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:18:45
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:18:45
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 16:18:45
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:18:45
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:18:45
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:18:45
+[INFO]create IO thread(40610). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:45
+[INFO]create IO thread(40608). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:45
+[INFO]create IO thread(40607). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:45
+[INFO]create IO thread(40609). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:18:55
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:18:55
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:18:55
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:18:55
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:18:55
+[INFO]2024-04-29 16:18:55 new connection(fd=45,ip=192.168.203.128,port=49548) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:18:55
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:18:55
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:18:55
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:23:27
+[INFO]create IO thread(41116). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:27
+[INFO]create IO thread(41113). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:27
+[INFO]create IO thread(41115). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:27
+[INFO]create IO thread(41114). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:27
+[INFO]create redis_worker thread(41120). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:27
+[INFO]create redis_worker thread(41118). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:27
+[INFO]create redis_worker thread(41117). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:45
+[INFO]create IO thread(41172). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:45
+[INFO]create IO thread(41173). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:45
+[INFO]create IO thread(41170). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:45
+[INFO]create IO thread(41171). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:45
+[INFO]create redis_worker thread(41174). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:45
+[INFO]create redis_worker thread(41175). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:45
+[INFO]create redis_worker thread(41176). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:49
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:23:49
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:23:49
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 16:23:49
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:23:49
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:23:49
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:23:49
+[INFO]create IO thread(41205). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:49
+[INFO]create IO thread(41202). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:49
+[INFO]create IO thread(41203). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:49
+[INFO]create IO thread(41204). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:23:53
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:23:53
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:23:53
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:23:53
+[INFO]6 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:23:53
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:23:53
+[INFO]2024-04-29 16:23:53 new connection(fd=45,ip=192.168.203.128,port=57834) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:23:53
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:23:53
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:23:53
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:26:51
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:26:51
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:26:51
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:26:51
+[INFO]7 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:26:51
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:26:51
+[INFO]2024-04-29 16:26:51 new connection(fd=45,ip=192.168.203.128,port=36694) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:26:51
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:26:51
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:26:51
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:29:17
+[INFO]2024-04-29 16:29:17 new connection(fd=45,ip=192.168.203.128,port=52150) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:29:17
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:29:17
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:29:17
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:29:17
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:29:17
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:29:17
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:29:17
+[INFO]8 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:29:17
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:32:04
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:32:04
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:32:04
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:32:04
+[INFO]9 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:32:04
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:32:04
+[INFO]2024-04-29 16:32:04 new connection(fd=45,ip=192.168.203.128,port=58818) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:32:04
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:32:04
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:32:04
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:32:39
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:32:39
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:32:39
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:32:39
+[INFO]10 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:32:39
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:32:39
+[INFO]2024-04-29 16:32:39 new connection(fd=45,ip=192.168.203.128,port=52792) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:32:39
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:32:39
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:32:39
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:34:08
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:34:08
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:34:08
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:34:08
+[INFO]11 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:34:08
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:34:08
+[INFO]2024-04-29 16:34:08 new connection(fd=45,ip=192.168.203.128,port=50830) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:34:08
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:34:08
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:34:08
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:36:17
+[INFO]2024-04-29 16:36:17 new connection(fd=45,ip=192.168.203.128,port=33142) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:36:17
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:36:17
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:36:17
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:36:17
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:36:17
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:36:17
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:36:17
+[INFO]12 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:36:17
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:48:33
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:48:33
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:48:33
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 16:48:33
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:48:33
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:48:33
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:48:33
+[INFO]create IO thread(43784). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:48:33
+[INFO]create IO thread(43785). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:48:33
+[INFO]create IO thread(43786). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:48:33
+[INFO]create IO thread(43787). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:48:38
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:48:38
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:48:38
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 16:48:38
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:48:38
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:48:38
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:48:38
+[INFO]create IO thread(43833). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:48:38
+[INFO]create IO thread(43831). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:48:38
+[INFO]create IO thread(43830). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:48:38
+[INFO]create IO thread(43832). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:49:07
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:49:07
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:49:07
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 16:49:07
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:49:07
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:49:07
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 16:49:07
+[INFO]create IO thread(43949). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:49:07
+[INFO]create IO thread(43948). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:49:07
+[INFO]create IO thread(43946). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:49:07
+[INFO]create IO thread(43947). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 16:49:12
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:49:12
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:49:12
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:49:12
+[INFO]13 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:49:12
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:49:12
+[INFO]2024-04-29 16:49:12 new connection(fd=45,ip=192.168.203.128,port=45068) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:49:12
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:49:12
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:49:12
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:56:47
+[INFO]2024-04-29 16:56:47 new connection(fd=45,ip=192.168.203.128,port=44196) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:56:47
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:56:47
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:56:47
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:56:47
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:56:47
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:56:47
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:56:47
+[INFO]14 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:56:47
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:58:41
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:58:41
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:58:41
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:58:41
+[INFO]15 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:58:41
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:58:41
+[INFO]2024-04-29 16:58:41 new connection(fd=45,ip=192.168.203.128,port=43994) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:58:41
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:58:41
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:58:41
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:59:55
+[INFO]2024-04-29 16:59:55 new connection(fd=45,ip=192.168.203.128,port=46780) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 16:59:55
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:59:55
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 16:59:55
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 16:59:55
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 16:59:55
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 16:59:55
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 16:59:55
+[INFO]16 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 16:59:55
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:09:46
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 17:09:46
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 17:09:46
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:09:46
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:46
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:46
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:46
+[INFO]create IO thread(45854). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:46
+[INFO]create IO thread(45857). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:46
+[INFO]create IO thread(45855). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:46
+[INFO]create IO thread(45856). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:48
+[INFO]create IO thread(45878). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:48
+[INFO]create IO thread(45881). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:48
+[INFO]create IO thread(45880). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:48
+[INFO]create redis_worker thread(45882). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:48
+[INFO]create redis_worker thread(45883). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:48
+[INFO]create redis_worker thread(45884). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:48
+[INFO]create IO thread(45879). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:56
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:09:56
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:56
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:56
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:09:56
+[INFO]create IO thread(45978). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:56
+[INFO]create IO thread(45980). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:56
+[INFO]create IO thread(45979). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:56
+[INFO]create IO thread(45981). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:59
+[INFO]create redis_worker thread(46024). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:59
+[INFO]create IO thread(46020). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:59
+[INFO]create IO thread(46023). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:59
+[INFO]create redis_worker thread(46026). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:59
+[INFO]create redis_worker thread(46025). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:59
+[INFO]create IO thread(46022). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:09:59
+[INFO]create IO thread(46021). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:10:08
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:10:08
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 17:10:08
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 17:10:08
+[INFO]17 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 17:10:08
+[INFO]4 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:10:08
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:10:08
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 17:10:08
+[INFO]2024-04-29 17:10:08 new connection(fd=45,ip=192.168.203.128,port=35742) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 17:10:08
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:10:08
+[INFO]4 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:10:08
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:13:51
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:13:51
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 17:13:51
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 17:13:51
+[INFO]18 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 17:13:51
+[INFO]4 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:13:51
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:13:51
+[INFO]2024-04-29 17:13:51 new connection(fd=45,ip=192.168.203.128,port=35938) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 17:13:51
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 17:13:51
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:13:51
+[INFO]4 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:13:51
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:14:19
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:14:19
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 17:14:19
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 17:14:19
+[INFO]19 -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:79
+2024-04-29 17:14:19
+[INFO]4 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:14:19
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:14:19
+[INFO]2024-04-29 17:14:19 new connection(fd=45,ip=192.168.203.128,port=57336) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 17:14:19
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:14:19
+[INFO]riverj 273068 -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:89
+2024-04-29 17:14:19
+[INFO]4 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:14:19
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:21:37
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:21:37
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 17:21:37
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 17:21:37
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:21:37
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 17:28:04
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:04
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:04
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:04
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:04
+[INFO]create IO thread(47510). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:04
+[INFO]create IO thread(47509). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:04
+[INFO]create IO thread(47512). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:04
+[INFO]create IO thread(47511). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:12
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:12
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:12
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:12
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:12
+[INFO]create IO thread(47583). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:12
+[INFO]create IO thread(47584). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:12
+[INFO]create IO thread(47585). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:12
+[INFO]create IO thread(47586). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:15
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:15
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:15
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:15
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:15
+[INFO]create IO thread(47616). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:15
+[INFO]create IO thread(47618). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:15
+[INFO]create IO thread(47617). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:15
+[INFO]create IO thread(47615). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:23
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:23
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:23
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:23
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:23
+[INFO]create IO thread(47673). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:23
+[INFO]create IO thread(47674). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:23
+[INFO]create IO thread(47675). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:23
+[INFO]create IO thread(47672). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:26
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:26
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:26
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:26
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:26
+[INFO]create IO thread(47714). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:26
+[INFO]create IO thread(47711). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:26
+[INFO]create IO thread(47712). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:26
+[INFO]create IO thread(47713). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:48
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:48
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:48
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:48
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:48
+[INFO]create IO thread(47802). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:48
+[INFO]create IO thread(47800). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:48
+[INFO]create IO thread(47801). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:48
+[INFO]create IO thread(47803). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:53
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:53
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:53
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:53
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:53
+[INFO]create IO thread(47868). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:53
+[INFO]create IO thread(47866). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:53
+[INFO]create IO thread(47867). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:53
+[INFO]create IO thread(47869). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:59
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:28:59
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:59
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:59
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:28:59
+[INFO]create IO thread(47929). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:59
+[INFO]create IO thread(47928). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:59
+[INFO]create IO thread(47926). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:28:59
+[INFO]create IO thread(47927). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:29:48
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 17:29:48
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:29:48
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:29:48
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 17:29:48
+[INFO]create IO thread(48035). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:29:48
+[INFO]create IO thread(48034). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:29:48
+[INFO]create IO thread(48032). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:29:48
+[INFO]create IO thread(48033). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:30:52
+[INFO]create redis_worker thread(48196). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:30:52
+[INFO]create IO thread(48192). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:30:52
+[INFO]create redis_worker thread(48197). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:30:52
+[INFO]create IO thread(48191). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:30:52
+[INFO]create redis_worker thread(48195). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:30:52
+[INFO]create IO thread(48194). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:30:52
+[INFO]create IO thread(48193). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 17:40:50
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 17:40:50
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 17:40:50
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 17:40:50
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:239
+2024-04-29 17:40:50
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:21
+2024-04-29 18:03:50
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 18:03:50
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:03:50
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:03:50
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:03:50
+[INFO]create IO thread(50348). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:50
+[INFO]create IO thread(50347). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:50
+[INFO]create IO thread(50345). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:50
+[INFO]create IO thread(50346). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:53
+[INFO]create IO thread(50374). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:53
+[INFO]create IO thread(50377). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:53
+[INFO]create IO thread(50375). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:53
+[INFO]create redis_worker thread(50378). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:53
+[INFO]create IO thread(50376). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:53
+[INFO]create redis_worker thread(50379). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:03:53
+[INFO]create redis_worker thread(50380). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:04:10
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 18:04:10
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 18:04:10
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 18:04:10
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 18:04:10
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 18:58:35
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 18:58:35
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:58:35
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:58:35
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:58:35
+[INFO]create IO thread(51756). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:35
+[INFO]create IO thread(51757). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:35
+[INFO]create IO thread(51758). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:35
+[INFO]create IO thread(51759). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:52
+[INFO]create IO thread(51869). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:52
+[INFO]create redis_worker thread(51875). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:52
+[INFO]create redis_worker thread(51874). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:52
+[INFO]create IO thread(51872). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:52
+[INFO]create IO thread(51871). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:52
+[INFO]create IO thread(51870). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:52
+[INFO]create redis_worker thread(51873). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:56
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 18:58:56
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 18:58:56
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 18:58:56
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:58:56
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:58:56
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 18:58:56
+[INFO]create IO thread(51916). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:56
+[INFO]create IO thread(51915). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:56
+[INFO]create IO thread(51917). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:58:56
+[INFO]create IO thread(51918). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 18:59:02
+[INFO]2024-04-29 18:59:02 new connection(fd=45,ip=192.168.203.128,port=37464) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 18:59:02
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 18:59:02
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 18:59:02
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 18:59:02
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 18:59:02
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 18:59:02
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 18:59:02
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 18:59:02
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 18:59:02
+query error: select User.id,User.name from Friend,User where Friend.userid=2 and User.id=Friend.friendid -- /home/river/work/SQL_Pool/SQL_connect_pool/src/connect.cpp:42
+2024-04-29 18:59:02
+[INFO]no result! -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:202
+2024-04-29 19:06:02
+[INFO]2024-04-29 19:06:02 new connection(fd=45,ip=192.168.203.128,port=41642) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 19:06:02
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:06:02
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:06:02
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:06:02
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:06:02
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 19:06:02
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 19:06:02
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:06:02
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:11:25
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:11:25
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 19:11:25
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 19:11:26
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:11:26
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:11:25
+[INFO]2024-04-29 19:11:25 new connection(fd=45,ip=192.168.203.128,port=42038) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 19:11:25
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:11:26
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:11:26
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:29:33
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:29:33
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 19:29:33
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 19:29:33
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:29:33
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:29:33
+[INFO]2024-04-29 19:29:33 new connection(fd=45,ip=192.168.203.128,port=49894) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 19:29:33
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:29:33
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:29:33
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:31:19
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:31:19
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 19:31:19
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 19:31:19
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:31:19
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:31:19
+[INFO]2024-04-29 19:31:19 new connection(fd=45,ip=192.168.203.128,port=35384) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 19:31:19
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:31:19
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:31:19
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:43:32
+[INFO]2024-04-29 19:43:32 new connection(fd=45,ip=192.168.203.128,port=59288) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 19:43:32
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:43:32
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:43:32
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:43:32
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:43:32
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 19:43:32
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 19:43:32
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:43:32
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:55:46
+[INFO]2024-04-29 19:55:46 new connection(fd=45,ip=192.168.203.128,port=44362) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:128
+2024-04-29 19:55:46
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:55:46
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:55:46
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 19:55:46
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 19:55:46
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 19:55:46
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 19:55:46
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 19:55:46
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:02:40
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:02:40
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:02:40
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:02:40
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:40
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:40
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:40
+[INFO]create IO thread(55313). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:40
+[INFO]create IO thread(55314). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:40
+[INFO]create IO thread(55315). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:40
+[INFO]create IO thread(55312). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:46
+[INFO]create IO thread(55391). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:46
+[INFO]create IO thread(55388). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:46
+[INFO]create redis_worker thread(55392). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:46
+[INFO]create redis_worker thread(55394). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:46
+[INFO]create redis_worker thread(55393). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:46
+[INFO]create IO thread(55390). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:46
+[INFO]create IO thread(55389). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:53
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:02:53
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:02:53
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:02:53
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:53
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:53
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:02:53
+[INFO]create IO thread(55440). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:53
+[INFO]create IO thread(55439). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:53
+[INFO]create IO thread(55441). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:02:53
+[INFO]create IO thread(55442). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:05
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:03:05
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:03:05
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:03:05
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:03:05
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:03:05
+[INFO]method_name:LoginOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:03:05
+[INFO]create IO thread(55489). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:05
+[INFO]create IO thread(55487). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:05
+[INFO]create IO thread(55486). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:05
+[INFO]create IO thread(55488). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:08
+[INFO]create IO thread(55515). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:08
+[INFO]create IO thread(55516). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:08
+[INFO]create redis_worker thread(55521). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:08
+[INFO]create redis_worker thread(55520). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:08
+[INFO]create IO thread(55517). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:08
+[INFO]create IO thread(55518). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:08
+[INFO]create redis_worker thread(55519). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:03:16
+[INFO]2024-04-29 20:03:16 new connection(fd=45,ip=192.168.203.128,port=54678) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:03:16
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:03:16
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:03:16
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:03:16
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:03:16
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:03:16
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:03:16
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:03:16
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:21:32
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:21:32
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:21:32
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:21:32
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:21:32
+[INFO]create IO thread(58864). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:32
+[INFO]create IO thread(58865). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:32
+[INFO]create IO thread(58866). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:32
+[INFO]create IO thread(58863). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:34
+[INFO]create IO thread(58885). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:34
+[INFO]create IO thread(58887). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:34
+[INFO]create redis_worker thread(58889). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:34
+[INFO]create redis_worker thread(58890). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:34
+[INFO]create redis_worker thread(58891). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:34
+[INFO]create IO thread(58886). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:34
+[INFO]create IO thread(58888). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:21:51
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:21:51
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:21:51
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:21:51
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:21:51
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:21:51
+[INFO]2024-04-29 20:21:51 new connection(fd=45,ip=192.168.203.128,port=54144) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:21:51
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:21:51
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:21:51
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:23:40
+[INFO]2024-04-29 20:23:40 new connection(fd=45,ip=192.168.203.128,port=51470) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:23:40
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:23:40
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:23:40
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:23:40
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:23:40
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:23:40
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:23:40
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:23:40
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:25:57
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:25:57
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:25:57
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:25:57
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:25:57
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:25:57
+[INFO]2024-04-29 20:25:57 new connection(fd=45,ip=192.168.203.128,port=51832) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:25:57
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:25:57
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:25:57
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:26:02
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:26:02
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:26:02
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:26:02
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:26:02
+[INFO]2024-04-29 20:26:02 new connection(fd=45,ip=192.168.203.128,port=51834) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:26:02
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:26:02
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:35:15
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:35:15
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:35:15
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:35:15
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:35:15
+[INFO]create IO thread(60522). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:15
+[INFO]create IO thread(60523). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:15
+[INFO]create IO thread(60524). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:15
+[INFO]create IO thread(60525). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:17
+[INFO]create IO thread(60552). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:17
+[INFO]create IO thread(60550). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:17
+[INFO]create IO thread(60549). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:17
+[INFO]create redis_worker thread(60554). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:17
+[INFO]create redis_worker thread(60555). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:17
+[INFO]create redis_worker thread(60553). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:17
+[INFO]create IO thread(60551). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:35:22
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:35:22
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:35:22
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:35:22
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:35:22
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:35:22
+[INFO]2024-04-29 20:35:22 new connection(fd=45,ip=192.168.203.128,port=47990) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:35:22
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:35:22
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:35:22
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:35:27
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:35:27
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:35:27
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:35:27
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:35:27
+[INFO]2024-04-29 20:35:27 new connection(fd=45,ip=192.168.203.128,port=49384) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:35:27
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:35:27
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:39:06
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:39:06
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:39:06
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:39:06
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:39:06
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:39:06
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:39:06
+[INFO]create IO thread(60959). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:06
+[INFO]create IO thread(60960). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:06
+[INFO]create IO thread(60961). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:06
+[INFO]create IO thread(60962). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:10
+[INFO]create IO thread(60987). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:10
+[INFO]create redis_worker thread(60988). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:10
+[INFO]create IO thread(60984). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:10
+[INFO]create redis_worker thread(60989). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:10
+[INFO]create redis_worker thread(60990). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:10
+[INFO]create IO thread(60986). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:10
+[INFO]create IO thread(60985). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:15
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:39:15
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:39:15
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:39:15
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:39:15
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:39:15
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:39:15
+[INFO]create IO thread(61068). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:15
+[INFO]create IO thread(61067). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:15
+[INFO]create IO thread(61070). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:16
+[INFO]create IO thread(61069). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:20
+[INFO]create IO thread(61142). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:20
+[INFO]create redis_worker thread(61143). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:20
+[INFO]create IO thread(61141). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:20
+[INFO]create redis_worker thread(61145). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:20
+[INFO]create redis_worker thread(61144). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:20
+[INFO]create IO thread(61140). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:20
+[INFO]create IO thread(61139). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:31
+[INFO]create IO thread(61276). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:31
+[INFO]create IO thread(61279). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:31
+[INFO]create redis_worker thread(61280). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:31
+[INFO]create redis_worker thread(61282). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:31
+[INFO]create redis_worker thread(61281). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:31
+[INFO]create IO thread(61278). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:31
+[INFO]create IO thread(61277). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:45
+[INFO]create IO thread(61370). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:45
+[INFO]create IO thread(61373). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:45
+[INFO]create redis_worker thread(61374). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:45
+[INFO]create redis_worker thread(61376). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:45
+[INFO]create IO thread(61371). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:45
+[INFO]create IO thread(61372). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:45
+[INFO]create redis_worker thread(61375). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:55
+[INFO]create IO thread(61427). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:55
+[INFO]create IO thread(61428). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:55
+[INFO]create redis_worker thread(61431). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:55
+[INFO]create redis_worker thread(61433). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:55
+[INFO]create redis_worker thread(61432). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:55
+[INFO]create IO thread(61430). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:39:55
+[INFO]create IO thread(61429). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:40:07
+[INFO]2024-04-29 20:40:07 new connection(fd=45,ip=192.168.203.128,port=50898) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:40:07
+[INFO]Login -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:55
+2024-04-29 20:40:07
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:40:07
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:40:07
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:40:07
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:40:07
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:40:07
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:40:07
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:40:07
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:47:30
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:47:30
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:47:30
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:47:30
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:47:30
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:47:30
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:47:30
+[INFO]create IO thread(61981). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:30
+[INFO]create IO thread(61980). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:30
+[INFO]create IO thread(61978). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:30
+[INFO]create IO thread(61979). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:33
+[INFO]create IO thread(62012). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:33
+[INFO]create redis_worker thread(62014). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:33
+[INFO]create IO thread(62010). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:33
+[INFO]create IO thread(62009). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:33
+[INFO]create IO thread(62011). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:33
+[INFO]create redis_worker thread(62013). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:33
+[INFO]create redis_worker thread(62015). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:50
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:47:50
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:47:50
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:47:50
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:47:50
+[INFO]create IO thread(62222). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:50
+[INFO]create IO thread(62225). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:50
+[INFO]create IO thread(62224). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:50
+[INFO]create IO thread(62223). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:56
+[INFO]create IO thread(62255). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:56
+[INFO]create IO thread(62258). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:56
+[INFO]create IO thread(62257). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:56
+[INFO]create redis_worker thread(62259). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:56
+[INFO]create redis_worker thread(62260). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:56
+[INFO]create redis_worker thread(62261). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:47:56
+[INFO]create IO thread(62256). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:48:00
+[INFO]2024-04-29 20:48:00 new connection(fd=45,ip=192.168.203.128,port=44236) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:48:00
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:48:00
+[INFO]Login -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:55
+2024-04-29 20:48:00
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:48:00
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:48:00
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:48:00
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:48:00
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:48:00
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:48:00
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:48:05
+[INFO]2024-04-29 20:48:05 new connection(fd=45,ip=192.168.203.128,port=44240) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:48:05
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:48:05
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:48:05
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:48:05
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:48:05
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:48:05
+[INFO]2 logout! -- /home/river/work/mychat/user_service/src/UserService/UserService.cpp:103
+2024-04-29 20:48:05
+[INFO]0 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:52:58
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:52:58
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:52:58
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:52:58
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:52:58
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:52:58
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:52:58
+[INFO]create IO thread(62605). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:52:58
+[INFO]create IO thread(62604). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:52:58
+[INFO]create IO thread(62603). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:52:58
+[INFO]create IO thread(62602). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:03
+[INFO]create IO thread(62674). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:03
+[INFO]create IO thread(62677). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:03
+[INFO]create redis_worker thread(62678). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:03
+[INFO]create redis_worker thread(62680). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:03
+[INFO]create redis_worker thread(62679). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:03
+[INFO]create IO thread(62676). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:03
+[INFO]create IO thread(62675). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:06
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:53:06
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:53:06
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:53:06
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:06
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:06
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:06
+[INFO]create IO thread(62716). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:06
+[INFO]create IO thread(62715). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:06
+[INFO]create IO thread(62713). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:06
+[INFO]create IO thread(62714). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:13
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:53:13
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:53:13
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:53:13
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:13
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:13
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:13
+[INFO]create IO thread(62772). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:13
+[INFO]create IO thread(62771). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:13
+[INFO]create IO thread(62769). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:13
+[INFO]create IO thread(62770). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:16
+[INFO]create IO thread(62805). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:16
+[INFO]create IO thread(62806). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:16
+[INFO]create IO thread(62807). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:16
+[INFO]create IO thread(62808). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:16
+[INFO]create redis_worker thread(62809). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:16
+[INFO]create redis_worker thread(62810). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:16
+[INFO]create redis_worker thread(62811). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:24
+[INFO]create redis_worker thread(62864). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:24
+[INFO]create redis_worker thread(62863). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:24
+[INFO]create IO thread(62861). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:24
+[INFO]create IO thread(62860). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:24
+[INFO]create IO thread(62859). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:24
+[INFO]create IO thread(62858). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:24
+[INFO]create redis_worker thread(62862). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:28
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:53:28
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:53:28
+[INFO]service_name:UserServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-04-29 20:53:28
+[INFO]method_name:Login -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:28
+[INFO]method_name:Registe -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:28
+[INFO]method_name:LogOut -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-04-29 20:53:28
+[INFO]create IO thread(62906). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:28
+[INFO]create IO thread(62909). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:28
+[INFO]create IO thread(62908). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:28
+[INFO]create IO thread(62907). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-29 20:53:32
+[INFO]2024-04-29 20:53:32 new connection(fd=45,ip=192.168.203.128,port=33496) ok.
+ -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:129
+2024-04-29 20:53:32
+[INFO]Login -- /home/river/work/mychat/user_service/src/UserServer/UserServer.cpp:55
+2024-04-29 20:53:32
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:53:32
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:53:32
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-04-29 20:53:32
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-04-29 20:53:32
+[INFO]server -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:96
+2024-04-29 20:53:32
+[INFO]192.168.203.128:6052 -- /home/river/work/mychat/user_service/src/UserService/zkMaster.cpp:101
+2024-04-29 20:53:32
+[INFO]2 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:240
+2024-04-29 20:53:32
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22

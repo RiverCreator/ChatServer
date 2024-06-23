@@ -1,0 +1,5 @@
+/home/river/work/mychat/chat_service/build/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/chat_service/build/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/chat_service/build/src/CMakeFiles/ChatServer.dir
+/home/river/work/mychat/chat_service/build/src/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/chat_service/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+add_subdirectory(chat_service)
+add_subdirectory(client)
+add_subdirectory(friend_service)
+add_subdirectory(group_service)
+add_subdirectory(log_server)
+add_subdirectory(offline_service)
+add_subdirectory(proxy_server)
+add_subdirectory(user_service)

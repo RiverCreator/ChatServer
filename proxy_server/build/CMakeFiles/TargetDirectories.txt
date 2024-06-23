@@ -1,0 +1,5 @@
+/home/river/work/mychat/proxy_server/build/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/proxy_server/build/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/proxy_server/build/src/CMakeFiles/ProxyServer.dir
+/home/river/work/mychat/proxy_server/build/src/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/proxy_server/build/src/CMakeFiles/rebuild_cache.dir

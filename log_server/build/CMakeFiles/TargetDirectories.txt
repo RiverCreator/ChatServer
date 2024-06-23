@@ -1,0 +1,10 @@
+/home/river/work/mychat/log_server/build/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/log_server/build/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/log_server/build/src/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/log_server/build/src/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/log_server/build/src/LogServer/CMakeFiles/LogServer.dir
+/home/river/work/mychat/log_server/build/src/LogServer/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/log_server/build/src/LogServer/CMakeFiles/rebuild_cache.dir
+/home/river/work/mychat/log_server/build/src/LogReadServer/CMakeFiles/LogReadServer.dir
+/home/river/work/mychat/log_server/build/src/LogReadServer/CMakeFiles/edit_cache.dir
+/home/river/work/mychat/log_server/build/src/LogReadServer/CMakeFiles/rebuild_cache.dir

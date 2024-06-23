@@ -1,0 +1,4 @@
+13:16: 4=> [ERROR]insert into User(name,password) values('riverj','273068')
+23:52:45=> [ERROR]Del 2's friend list failed
+23:54:20=> [ERROR]Del 2's friend list failed
+23:54:22=> [ERROR]Del 2's friend list failed

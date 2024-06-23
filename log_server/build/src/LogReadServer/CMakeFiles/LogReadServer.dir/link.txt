@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/LogReadServer.dir/LogReadServer.cpp.o CMakeFiles/LogReadServer.dir/run.cpp.o CMakeFiles/LogReadServer.dir/__/proto/LogRead.pb.cc.o CMakeFiles/LogReadServer.dir/__/proto/LogServer.pb.cc.o -o ../../../bin/LogReadServer  -lmyrpc -lmytcp -lprotobuf -lmylog -lmytool -lpthread 

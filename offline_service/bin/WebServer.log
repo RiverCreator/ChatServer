@@ -1,0 +1,160 @@
+2024-04-28 17:52:13
+[INFO]create IO thread(14678). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-28 17:52:13
+[INFO]create IO thread(14679). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-28 17:52:13
+[INFO]create IO thread(14680). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-28 17:52:13
+[INFO]create IO thread(14681). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:48
+[INFO]service_name:OfflineServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-02 11:24:48
+[INFO]method_name:WriteOffline -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:24:48
+[INFO]method_name:ReadOffline -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:24:48
+[INFO]create IO thread(178259). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:48
+[INFO]create IO thread(178260). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:48
+[INFO]create IO thread(178258). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:24:48
+[INFO]create IO thread(178257). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:25:01
+[INFO]create IO thread(178302). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:25:01
+[INFO]create IO thread(178303). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:25:01
+[INFO]create IO thread(178304). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:25:01
+[INFO]create IO thread(178305). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:43:10
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:43:10
+[INFO]inputbuffer_ size :49 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:43:10
+[WARNING]49 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:43:10
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:43:10
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:43:10
+[INFO]inputbuffer_ size :26 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:43:10
+[WARNING]26 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:43:10
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:43:10
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:43:10
+updata error: insert into OfflineMessage values(2, 3,'���Ss') -- /home/river/work/SQL_Pool/SQL_connect_pool/src/connect.cpp:29
+2024-05-02 11:43:10
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:48:52
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:48:52
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:48:52
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 11:49:24
+[INFO]service_name:OfflineServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-02 11:49:24
+[INFO]method_name:WriteOffline -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:49:24
+[INFO]method_name:ReadOffline -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:49:24
+[INFO]create IO thread(180593). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:24
+[INFO]create IO thread(180595). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:24
+[INFO]create IO thread(180596). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:24
+[INFO]create IO thread(180594). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:27
+[INFO]create IO thread(180615). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:27
+[INFO]create IO thread(180616). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:27
+[INFO]create IO thread(180617). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:27
+[INFO]create IO thread(180618). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:49:36
+[INFO]inputbuffer_ size :49 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:49:36
+[WARNING]49 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:49:36
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:49:36
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:49:36
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:49:36
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:49:36
+[INFO]inputbuffer_ size :26 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:49:36
+[WARNING]26 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:49:36
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:49:36
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:54:12
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:54:12
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:54:12
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 11:55:51
+[INFO]service_name:OfflineServiceRpc -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:17
+2024-05-02 11:55:51
+[INFO]method_name:WriteOffline -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:55:51
+[INFO]method_name:ReadOffline -- /home/river/work/httpserver/src/RpcServer/RpcProvider.cpp:26
+2024-05-02 11:55:51
+[INFO]create IO thread(181521). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:55:51
+[INFO]create IO thread(181520). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:55:51
+[INFO]create IO thread(181518). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:55:51
+[INFO]create IO thread(181519). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:55:57
+[INFO]create IO thread(181587). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:55:57
+[INFO]create IO thread(181586). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:55:57
+[INFO]create IO thread(181585). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:55:57
+[INFO]create IO thread(181584). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:56:01
+[INFO]create IO thread(181623). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:56:01
+[INFO]create IO thread(181625). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:56:01
+[INFO]create IO thread(181624). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:56:01
+[INFO]create IO thread(181626). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:56:22
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:56:22
+[INFO]inputbuffer_ size :19 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:56:22
+[WARNING]19 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:56:22
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:56:22
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:56:22
+[INFO]inputbuffer_ size :40 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:56:22
+[WARNING]40 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:56:22
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:56:22
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:59:44
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:59:44
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:59:44
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22

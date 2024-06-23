@@ -1,0 +1,2 @@
+add_subdirectory(GroupServer)
+add_subdirectory(GroupService)

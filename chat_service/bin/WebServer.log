@@ -1,0 +1,289 @@
+2024-04-27 17:27:42
+[INFO]create IO thread(547973). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:27:42
+[INFO]create IO thread(547974). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:27:42
+[INFO]create IO thread(547972). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:27:42
+[INFO]create IO thread(547971). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:28:19
+[INFO]create IO thread(548036). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:28:19
+[INFO]create IO thread(548037). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:28:19
+[INFO]create IO thread(548038). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:28:19
+[INFO]create IO thread(548039). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:31:00
+[INFO]create IO thread(548296). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:31:00
+[INFO]create IO thread(548297). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:31:00
+[INFO]create IO thread(548298). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:31:00
+[INFO]create IO thread(548299). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:37:42
+[INFO]create IO thread(549207). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:37:42
+[INFO]create IO thread(549208). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:37:42
+[INFO]create IO thread(549209). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:37:42
+[INFO]create IO thread(549210). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:48:27
+[INFO]create IO thread(550302). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:48:27
+[INFO]create IO thread(550303). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:48:27
+[INFO]create IO thread(550301). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-04-27 17:48:27
+[INFO]create IO thread(550304). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:30:03
+[INFO]create IO thread(178853). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:30:03
+[INFO]create IO thread(178854). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:30:03
+[INFO]create IO thread(178855). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:30:03
+[INFO]create IO thread(178856). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 11:30:17
+[INFO]2024-05-02 11:30:17 new connection(fd=43,ip=192.168.203.128,port=36140) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 11:30:17
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:31:31
+[INFO]2024-05-02 11:31:31 new connection(fd=44,ip=192.168.203.128,port=46344) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 11:31:31
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:33:48
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:33:48
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:33:48
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 11:33:48
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:33:48
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:33:48
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 11:34:01
+[INFO]2024-05-02 11:34:01 new connection(fd=43,ip=192.168.203.128,port=49668) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 11:34:01
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:39:05
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:39:05
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:39:05
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 11:39:15
+[INFO]2024-05-02 11:39:15 new connection(fd=43,ip=192.168.203.128,port=57240) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 11:39:15
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:41:12
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:41:12
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:41:12
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 11:41:20
+[INFO]2024-05-02 11:41:20 new connection(fd=43,ip=192.168.203.128,port=47932) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 11:41:20
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:43:03
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:43:03
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 11:43:03
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 11:43:10
+[INFO]2024-05-02 11:43:10 new connection(fd=43,ip=192.168.203.128,port=57546) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 11:43:10
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:43:10
+[INFO]inputbuffer_ size :10 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:43:10
+[WARNING]10 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:43:10
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:43:10
+[INFO]into recv -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:123
+2024-05-02 11:48:52
+[INFO]recv ? -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:135
+2024-05-02 11:48:52
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:49:36
+[INFO]2024-05-02 11:49:36 new connection(fd=44,ip=192.168.203.128,port=47940) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 11:49:36
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 11:49:36
+[INFO]inputbuffer_ size :10 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 11:49:36
+[WARNING]10 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 11:49:36
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 11:49:36
+[INFO]into recv -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:123
+2024-05-02 11:54:12
+[INFO]recv ? -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:135
+2024-05-02 11:54:12
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 13:40:24
+[INFO]inputbuffer_ size :10 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 13:40:24
+[INFO]2024-05-02 13:40:24 new connection(fd=45,ip=192.168.203.128,port=55210) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 13:40:24
+[WARNING]10 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 13:40:24
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 13:40:24
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 13:40:24
+[INFO]into recv -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:123
+2024-05-02 13:40:24
+[INFO]recv ? -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:135
+2024-05-02 13:40:24
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 19:52:59
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 19:52:59
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 19:52:59
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 19:52:59
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 19:52:59
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 19:52:59
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 19:52:59
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 19:52:59
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 19:52:59
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 20:38:04
+[INFO]create IO thread(194865). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:38:04
+[INFO]create IO thread(194866). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:38:04
+[INFO]create IO thread(194868). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:38:04
+[INFO]create IO thread(194867). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:38:06
+[INFO]inputbuffer_ size :10 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 20:38:06
+[WARNING]10 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:38:06
+[INFO]2024-05-02 20:38:06 new connection(fd=43,ip=192.168.203.128,port=59726) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 20:38:06
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 20:38:06
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 20:38:06
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:38:09
+[INFO]2024-05-02 20:38:09 new connection(fd=45,ip=192.168.203.128,port=59734) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 20:38:09
+[INFO]inputbuffer_ size :19 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 20:38:09
+[WARNING]19 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:38:09
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 20:38:09
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 20:38:09
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:40:08
+[INFO]create IO thread(195408). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:40:08
+[INFO]create IO thread(195409). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:40:08
+[INFO]create IO thread(195410). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:40:08
+[INFO]create IO thread(195407). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:40:16
+[INFO]2024-05-02 20:40:16 new connection(fd=43,ip=192.168.203.128,port=36472) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 20:40:16
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 20:40:16
+[INFO]inputbuffer_ size :10 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 20:40:16
+[WARNING]10 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:40:16
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 20:40:16
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:44:14
+[INFO]2024-05-02 20:44:14 new connection(fd=45,ip=192.168.203.128,port=52848) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 20:44:14
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 20:44:14
+[INFO]inputbuffer_ size :19 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 20:44:14
+[WARNING]19 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:44:14
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 20:44:14
+[INFO]into recv -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:123
+2024-05-02 20:44:14
+[INFO]recv ? -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:135
+2024-05-02 20:44:14
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:50:05
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:50:05
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-02 20:50:05
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
+2024-05-02 20:53:39
+[INFO]create IO thread(196443). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:53:39
+[INFO]create IO thread(196444). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:53:39
+[INFO]create IO thread(196446). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:53:39
+[INFO]create IO thread(196445). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:54:08
+[INFO]create IO thread(196574). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:54:08
+[INFO]create IO thread(196575). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:54:08
+[INFO]create IO thread(196576). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:54:08
+[INFO]create IO thread(196577). -- /home/river/work/httpserver/src/Tool/ThreadPool.cpp:11
+2024-05-02 20:54:15
+[INFO]inputbuffer_ size :11 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:98
+2024-05-02 20:54:15
+[WARNING]11 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-02 20:54:15
+[WARNING]TcpServer onmessage -- /home/river/work/httpserver/src/TcpServer/TcpServer.cpp:104
+2024-05-02 20:54:15
+[INFO]2024-05-02 20:54:15 new connection(fd=43,ip=192.168.203.128,port=51982) ok.
+ -- /home/river/work/mychat/chat_service/src/chat_server.cpp:91
+2024-05-02 20:54:15
+[INFO]new connection come ! -- /home/river/work/httpserver/src/TcpServer/Acceptor.cpp:30
+2024-05-02 20:54:15
+[INFO]into recv -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:123
+2024-05-02 20:54:15
+[INFO]recv ? -- /home/river/work/httpserver/src/RpcServer/RpcChannel.cpp:135
+2024-05-02 20:54:15
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-03 00:08:02
+[WARNING]0 -- /home/river/work/httpserver/src/Tool/Buffer.cpp:64
+2024-05-03 00:08:02
+[INFO]close callback shared_from_this -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:51
+2024-05-03 00:08:02
+[INFO]conn已析构。 -- /home/river/work/httpserver/src/TcpServer/Connection.cpp:22
